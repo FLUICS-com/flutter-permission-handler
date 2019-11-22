@@ -3,9 +3,9 @@
 // Copyright (c) 2019 The Chromium Authors. All rights reserved.
 //
 
-// #import <Foundation/Foundation.h>
-// #import "PermissionStrategy.h"
-// #import <Speech/Speech.h>
+#import <Foundation/Foundation.h>
+#import "PermissionStrategy.h"
+#import <Speech/Speech.h>
 
-// @interface SpeechPermissionStrategy : NSObject <PermissionStrategy>
-// @end
+@interface SpeechPermissionStrategy : NSObject <PermissionStrategy>
+@end
