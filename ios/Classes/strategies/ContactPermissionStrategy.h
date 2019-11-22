@@ -3,11 +3,11 @@
 // Copyright (c) 2019 The Chromium Authors. All rights reserved.
 //
 
-#import <AddressBook/ABAddressBook.h>
-#import <Contacts/Contacts.h>
-#import <Foundation/Foundation.h>
-#import "PermissionStrategy.h"
+// #import <AddressBook/ABAddressBook.h>
+// #import <Contacts/Contacts.h>
+// #import <Foundation/Foundation.h>
+// #import "PermissionStrategy.h"
 
 
-@interface ContactPermissionStrategy : NSObject <PermissionStrategy>
-@end
+// @interface ContactPermissionStrategy : NSObject <PermissionStrategy>
+// @end
